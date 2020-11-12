@@ -1,0 +1,82 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "c:/Users/mike/source/Marlin/include",
+                "c:/Users/mike/source/Marlin/Marlin",
+                "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/TMC26XStepper",
+                "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/SlowSoftI2CMaster",
+                "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/SailfishRGB_LED",
+                "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/SailfishLCD",
+                "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/Arduino-L6470/src",
+                "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/LiquidTWI2",
+                "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/Adafruit_MAX31865",
+                "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/Adafruit BusIO_ID6214",
+                "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/U8glib-HAL_ID1932/src",
+                "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/Adafruit NeoPixel_ID28",
+                "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/TMCStepper_ID5513/src",
+                "C:/Users/mike/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/mike/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/LiquidCrystal_ID136",
+                "C:/Users/mike/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "C:/Users/mike/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/mike/.platformio/packages/framework-arduino-avr/variants/sanguino",
+                "C:/Users/mike/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/mike/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/mike/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/mike/source/Marlin/include",
+                    "c:/Users/mike/source/Marlin/Marlin",
+                    "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/TMC26XStepper",
+                    "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/SlowSoftI2CMaster",
+                    "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/SailfishRGB_LED",
+                    "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/SailfishLCD",
+                    "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/Arduino-L6470/src",
+                    "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/LiquidTWI2",
+                    "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/Adafruit_MAX31865",
+                    "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/Adafruit BusIO_ID6214",
+                    "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/U8glib-HAL_ID1932/src",
+                    "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/Adafruit NeoPixel_ID28",
+                    "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/TMCStepper_ID5513/src",
+                    "C:/Users/mike/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/mike/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "c:/Users/mike/source/Marlin/.pio/libdeps/sanguino1284p/LiquidCrystal_ID136",
+                    "C:/Users/mike/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "C:/Users/mike/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/mike/.platformio/packages/framework-arduino-avr/variants/sanguino",
+                    "C:/Users/mike/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/mike/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/mike/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50003",
+                "ARDUINO_AVR_SANGUINO",
+                "__MARLIN_FIRMWARE__",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega1284P__",
+                ""
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/mike/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega1284p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
